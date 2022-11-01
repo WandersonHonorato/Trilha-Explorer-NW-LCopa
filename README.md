@@ -1,1 +1,1 @@
-# TrilhaExplorerNWLCopa
+# Trilha Explorer NWL Copa
