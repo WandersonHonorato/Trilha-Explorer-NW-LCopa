@@ -1,1 +1,1 @@
-# Trilha Explorer NWL Copa
+#  NWL Copa do Mundo
